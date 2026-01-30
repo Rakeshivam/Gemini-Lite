@@ -58,8 +58,6 @@ Perfect for:
 ✨ Easy customization  
 ✨ Ready for deployment  
 
----
-
 
 
 
