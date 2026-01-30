@@ -52,7 +52,7 @@ const MainContent = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 px-5">
               <div className="h-[180px] p-5 bg-white rounded-xl border shadow-sm relative cursor-pointer transition-all hover:shadow-lg hover:-translate-y-1">
                 <p className="text-slate-700 text-lg">
-                  Suggeset top 10 webseries.
+                  Suggest top 10 webseries.
                 </p>
                 <FaCompass className="text-3xl absolute bottom-4 right-4 text-slate-400" />
               </div>
