@@ -60,20 +60,8 @@ Perfect for:
 
 ---
 
-## 🖼️ Screenshots
 
-> Add your screenshots here
 
-```
-/screenshots/chat.png
-/screenshots/mobile.png
-```
-
-Example:
-
-```markdown
-![Chat UI](./screenshots/chat.png)
-```
 
 ---
 
